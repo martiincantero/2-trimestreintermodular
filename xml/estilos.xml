@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xsi:noNamespaceSchemaLocation="estilos.xsd">
+  <estilos>
+    <estilo>
+      <nombre>Rock</nombre>
+      <descripcion>Género caracterizado por guitarras eléctricas, ritmos fuertes y letras expresivas.</descripcion>
+      <energy>Alta</energy>
+      <canciones>
+        <cancion>
+          <titulo>Death on Two Legs</titulo>
+          <grupo>Queen</grupo>
+          <numero_pista>1</numero_pista>
+          <duracion>00:03:43</duracion>
+          <feeling>Venganza</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Lazing on a Sunday Afternoon</titulo>
+          <grupo>Queen</grupo>
+          <numero_pista>2</numero_pista>
+          <duracion>00:01:08</duracion>
+          <feeling>Relajación</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Im in Love with My Car</titulo>
+          <grupo>Queen</grupo>
+          <numero_pista>3</numero_pista>
+          <duracion>00:03:05</duracion>
+          <feeling>Rebeldía</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Youre My Best Friend</titulo>
+          <grupo>Queen</grupo>
+          <numero_pista>4</numero_pista>
+          <duracion>00:02:52</duracion>
+          <feeling>Calidez</feeling>
+        </cancion>
+        <cancion>
+          <titulo>39</titulo>
+          <grupo>Queen</grupo>
+          <numero_pista>5</numero_pista>
+          <duracion>00:03:30</duracion>
+          <feeling>Nostalgia</feeling>
+        </cancion>
+      </canciones>
+    </estilo>
+    <estilo>
+      <nombre>Grunge</nombre>
+      <descripcion>Subgénero del rock alternativo con sonidos distorsionados y letras introspectivas.</descripcion>
+      <energy>Media-Alta</energy>
+      <canciones>
+        <cancion>
+          <titulo>Smells Like Teen Spirit</titulo>
+          <grupo>Nirvana</grupo>
+          <numero_pista>1</numero_pista>
+          <duracion>00:05:01</duracion>
+          <feeling>Rebeldía</feeling>
+        </cancion>
+        <cancion>
+          <titulo>In Bloom</titulo>
+          <grupo>Nirvana</grupo>
+          <numero_pista>2</numero_pista>
+          <duracion>00:04:15</duracion>
+          <feeling>Crítica</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Come as You Are</titulo>
+          <grupo>Nirvana</grupo>
+          <numero_pista>3</numero_pista>
+          <duracion>00:03:39</duracion>
+          <feeling>Misterioso</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Breed</titulo>
+          <grupo>Nirvana</grupo>
+          <numero_pista>4</numero_pista>
+          <duracion>00:03:31</duracion>
+          <feeling>Rebeldía</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Lithium</titulo>
+          <grupo>Nirvana</grupo>
+          <numero_pista>5</numero_pista>
+          <duracion>00:04:17</duracion>
+          <feeling>Triste</feeling>
+        </cancion>
+      </canciones>
+    </estilo>
+    <estilo>
+      <nombre>House</nombre>
+      <descripcion>Música electrónica con beats repetitivos y un ritmo bailable.</descripcion>
+      <energy>Muy Alta</energy>
+      <canciones>
+        <cancion>
+          <titulo>One More Time</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>1</numero_pista>
+          <duracion>00:05:20</duracion>
+          <feeling>Euforia</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Aerodynamic</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>2</numero_pista>
+          <duracion>00:03:27</duracion>
+          <feeling>Futurista</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Digital Love</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>3</numero_pista>
+          <duracion>00:04:58</duracion>
+          <feeling>Romántico</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Harder, Better, Faster, Stronger</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>4</numero_pista>
+          <duracion>00:03:44</duracion>
+          <feeling>Motivador</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Crescendolls</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>5</numero_pista>
+          <duracion>00:03:31</duracion>
+          <feeling>Motivador</feeling>
+        </cancion>
+      </canciones>
+    </estilo>
+    <estilo>
+      <nombre>Disco</nombre>
+      <descripcion>Género de los 70s con ritmos pegajosos, bajos funk y una fuerte influencia de la música dance.</descripcion>
+      <energy>Alta</energy>
+      <canciones>
+        <cancion>
+          <titulo>Give Life Back to Music</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>1</numero_pista>
+          <duracion>00:04:35</duracion>
+          <feeling>Motivador</feeling>
+        </cancion>
+        <cancion>
+          <titulo>The Game of Love</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>2</numero_pista>
+          <duracion>00:05:22</duracion>
+          <feeling>Melancólico</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Giorgio by Moroder</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>3</numero_pista>
+          <duracion>00:09:04</duracion>
+          <feeling>Futurista</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Within</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>4</numero_pista>
+          <duracion>00:03:28</duracion>
+          <feeling>Melancólico</feeling>
+        </cancion>
+        <cancion>
+          <titulo>Instant Crush</titulo>
+          <grupo>Daft Punk</grupo>
+          <numero_pista>5</numero_pista>
+          <duracion>00:05:37</duracion>
+          <feeling>Desamor</feeling>
+        </cancion>
+      </canciones>
+    </estilo>
+  </estilos>
+  <grupos>
+    <grupo>
+      <nombre>Queen</nombre>
+      <pais>Reino Unido</pais>
+      <anyo_formacion>1970</anyo_formacion>
+    </grupo>
+    <grupo>
+      <nombre>Nirvana</nombre>
+      <pais>Estados Unidos</pais>
+      <anyo_formacion>1987</anyo_formacion>
+    </grupo>
+    <grupo>
+      <nombre>Daft Punk</nombre>
+      <pais>Francia</pais>
+      <anyo_formacion>1993</anyo_formacion>
+    </grupo>
+  </grupos>
+</xs:schema>

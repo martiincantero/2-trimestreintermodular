@@ -1,0 +1,247 @@
+<xs:schema 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="canciones.xsd">
+</xs:schema>
+
+  <disco>
+    <titulo>A Night at the Opera</titulo>
+    <grupo>Queen</grupo>
+    <canciones>
+      <cancion>
+        <titulo>Death on Two Legs</titulo>
+        <numero_pista>1</numero_pista>
+        <duracion>00:03:43</duracion>
+      </cancion>
+      <cancion>
+        <titulo>Lazing on a Sunday Afternoon</titulo>
+        <numero_pista>2</numero_pista>
+        <duracion>
+          <duracion>00:01:08</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Im in Love with My Car</titulo>
+        <numero_pista>3</numero_pista>
+        <duracion>00:03:05</duracion>
+      </cancion>
+      <cancion>
+        <titulo>Youre My Best Friend</titulo>
+        <numero_pista>4</numero_pista>
+        <duracion>'00:02:52</duracion>
+      </cancion>
+      <cancion>
+        <titulo>39</titulo>
+        <numero_pista>5</numero_pista>
+        <duracion>
+          <duracion>00:03:30</duracion>
+        </duracion>
+      </cancion>
+    </canciones>
+  </disco>
+  <disco>
+    <titulo>The Works</titulo>
+    <grupo>Queen</grupo>
+    <canciones>
+      <cancion>
+        <titulo>Radio Ga Ga</titulo>
+        <numero_pista>1</numero_pista>
+        <duracion>
+          <duracion>00:05:48</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Tear It Up</titulo>
+        <numero_pista>2</numero_pista>
+        <duracion>
+          <duracion>00:03:28</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Its a Hard Life</titulo>
+        <numero_pista>3</numero_pista>
+        <duracion>
+          <duracion>00:04:08</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Man on the Prowl</titulo>
+        <numero_pista>4</numero_pista>
+        <duracion>
+          <duracion>00:03:28</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Machines (Or Back to Humans)</titulo>
+        <numero_pista>5</numero_pista>
+        <duracion>
+          <duracion>00:05:08</duracion>
+        </duracion>
+      </cancion>
+    </canciones>
+  </disco>
+  <disco>
+    <titulo>Nevermind</titulo>
+    <grupo>Nirvana</grupo>
+    <canciones>
+      <cancion>
+        <titulo>Smells Like Teen Spirit</titulo>
+        <numero_pista>1</numero_pista>
+        <duracion>
+          <duracion>00:05:01</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>In Bloom</titulo>
+        <numero_pista>2</numero_pista>
+        <duracion>
+          <duracion>00:04:15</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Come as You Are</titulo>
+        <numero_pista>3</numero_pista>
+        <duracion>
+          <duracion>00:03:39</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Breed</titulo>
+        <numero_pista>4</numero_pista>
+        <duracion>
+          <duracion>00:03:31</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Lithium</titulo>
+        <numero_pista>5</numero_pista>
+        <duracion>
+          <duracion>00:04:17</duracion>
+        </duracion>
+      </cancion>
+    </canciones>
+  </disco>
+  <disco>
+    <titulo>In Utero</titulo>
+    <grupo>Nirvana</grupo>
+    <canciones>
+      <cancion>
+        <titulo>Serve the Servants</titulo>
+        <numero_pista>1</numero_pista>
+        <duracion>
+          <duracion>00:03:36</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Scentless Apprentice</titulo>
+        <numero_pista>2</numero_pista>
+        <duracion>
+          <duracion>00:03:48</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Heart-Shaped Box</titulo>
+        <numero_pista>3</numero_pista>
+        <duracion>
+          <duracion>00:04:41</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Rape Me</titulo>
+        <numero_pista>4</numero_pista>
+        <duracion>
+          <duracion>00:02:49</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Frances Farmer Will Have Her Revenge on Seattle</titulo>
+        <numero_pista>5</numero_pista>
+        <duracion>
+          <duracion>00:04:09</duracion>
+        </duracion>
+      </cancion>
+    </canciones>
+  </disco>
+  <disco>
+    <titulo>Discovery</titulo>
+    <grupo>Daft Punk</grupo>
+    <canciones>
+      <cancion>
+        <titulo>One More Time</titulo>
+        <numero_pista>1</numero_pista>
+        <duracion>
+          <duracion>00:05:20</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Aerodynamic</titulo>
+        <numero_pista>2</numero_pista>
+        <duracion>
+          <duracion>00:03:27</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Digital Love</titulo>
+        <numero_pista>3</numero_pista>
+        <duracion>
+          <duracion>00:04:58</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Harder, Better, Faster, Stronger</titulo>
+        <numero_pista>4</numero_pista>
+        <duracion>
+          <duracion>00:03:44</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Crescendolls</titulo>
+        <numero_pista>5</numero_pista>
+        <duracion>
+          <duracion>00:03:31</duracion>
+        </duracion>
+      </cancion>
+    </canciones>
+  </disco>
+  <disco>
+    <titulo>Random Access Memories</titulo>
+    <grupo>Daft Punk</grupo>
+    <canciones>
+      <cancion>
+        <titulo>Give Life Back to Music</titulo>
+        <numero_pista>1</numero_pista>
+        <duracion>
+          <duracion>00:04:35</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>The Game of Love</titulo>
+        <numero_pista>2</numero_pista>
+        <duracion>
+          <duracion>00:05:22</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Giorgio by Moroder</titulo>
+        <numero_pista>3</numero_pista>
+        <duracion>
+          <duracion>00:09:04</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Within</titulo>
+        <numero_pista>4</numero_pista>
+        <duracion>
+          <duracion>00:03:28</duracion>
+        </duracion>
+      </cancion>
+      <cancion>
+        <titulo>Instant Crush</titulo>
+        <numero_pista>5</numero_pista>
+        <duracion>
+          <duracion>00:05:37</duracion>
+        </duracion>
+      </cancion>
+    </canciones>
+  </disco>
+</xs:schema>

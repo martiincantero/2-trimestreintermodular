@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           xsi:noNamespaceSchemaLocation="grupos.xsd">
+<grupos>
+  <grupo>
+    <nombre>Queen</nombre>
+    <pais>Reino Unido</pais>
+    <anio_formacion>1970</anio_formacion>
+    <discos>
+      <disco>
+        <titulo>A Night at the Opera</titulo>
+        <anyo_lanzamiento>1975</anyo_lanzamiento>
+        <genero>Rock</genero>
+      </disco>
+      <disco>
+        <titulo>The Works</titulo>
+        <anyo_lanzamiento>1984</anyo_lanzamiento>
+        <genero>Rock</genero>
+      </disco>
+    </discos>
+  </grupo>
+  <grupo>
+    <nombre>Nirvana</nombre>
+    <pais>Estados Unidos</pais>
+    <anio_formacion>1987</anio_formacion>
+    <discos>
+      <disco>
+        <titulo>Nevermind</titulo>
+        <anyo_lanzamiento>1991</anyo_lanzamiento>
+        <genero>Grunge</genero>
+      </disco>
+      <disco>
+        <titulo>In Utero</titulo>
+        <anyo_lanzamiento>1993</anyo_lanzamiento>
+        <genero>Grunge</genero>
+      </disco>
+    </discos>
+  </grupo>
+  <grupo>
+    <nombre>Daft Punk</nombre>
+    <pais>Francia</pais>
+    <anio_formacion>1993</anio_formacion>
+    <discos>
+      <disco>
+        <titulo>Discovery</titulo>
+        <anyo_lanzamiento>2001</anyo_lanzamiento>
+        <genero>House</genero>
+      </disco>
+      <disco>
+        <titulo>Random Access Memories</titulo>
+        <anyo_lanzamiento>2013</anyo_lanzamiento>
+        <genero>Disco</genero>
+      </disco>
+    </discos>
+  </grupo>
+</grupos>
